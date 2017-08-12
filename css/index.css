@@ -82,22 +82,29 @@ body {
     font-weight: 600;
 }
 
-.contents .contents-list img {
+.contents .contents-list .img {
     display: block;
     width: 1.5rem;
-    height: 1.5rem;
     border-radius: 50%;
     position:absolute;
     top:0;
     bottom:0;
     right:0.24rem;
+    overflow: hidden;
+}
+.contents .contents-list .img img{
+    display: block;
+    width: 1.8rem;
+    height:auto;
+    position:absolute;
+    top:-0.2rem;
 }
 .na{
     position:absolute;
     top:0;
     bottom:0;
     left:0;
-    width:70%;
+    width:67%;
     height:100%;
 }
 .contents .name {
