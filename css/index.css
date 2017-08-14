@@ -138,7 +138,7 @@ body {
     padding: 15px 10px;
     text-align: left;
     font-size: 16px;
-    color: #8e95a0;
+    color: #333333;
     border-bottom: 1px dashed #8e95a0;
 }
 
@@ -146,7 +146,7 @@ body {
     text-align: right;
     font-size: 16px;
     padding: 20px 10px;
-    color: #8e95a0;
+    color: #333333;
 }
 
 .item {
@@ -195,7 +195,7 @@ body {
 
 .jineng li {
     width: 100%;
-    color: #8e95a0;
+    color: #333333;
     padding: 20px 0;
     border-bottom: 1px dashed #8e95a0;
 }
