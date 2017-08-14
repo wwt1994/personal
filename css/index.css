@@ -121,6 +121,7 @@ body {
     right: 0;
     bottom:0.4rem;
     color:#56C3FD;
+    z-index:999999;
 }
 .list{
     width:100%;
